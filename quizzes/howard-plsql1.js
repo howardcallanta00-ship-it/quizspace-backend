@@ -5,7 +5,7 @@
 module.exports = {
     id: 'howard-plsql-review',
     title: 'PL/SQL 2',
-    desc: 'PL/SQL concepts, Subprograms, Packages, and Triggers.',
+    desc: 'Subprograms, Packages, and Triggers.',
     user: 'howard',   // Only shown to Howard
 
     questions: [
