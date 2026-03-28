@@ -3,7 +3,7 @@
  */
 
 module.exports = {
-    id: 'howard-plsql-review',
+    id: 'howard-subprograms-review',
     title: 'PL/SQL 2',
     desc: 'Subprograms, Packages, and Triggers.',
     user: 'howard',   // Only shown to Howard
