@@ -1,7 +1,7 @@
 module.exports = {
     id: 'howard-networking-two',
     title: 'Networking 2',
-    desc: 'Physical layer, Data Link layer, Ethernet, IP, routing',
+    desc: 'Physical & Data Link layer, Ethernet, IP, Routing',
     user: 'howard',
     questions: [
         {
