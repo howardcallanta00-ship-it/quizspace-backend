@@ -1,7 +1,7 @@
 module.exports = {
     id: 'howard-networking-four',
     title: 'Networking 4',
-    desc: 'Transport layer, TCP/UDP, security, network fundamentals',
+    desc: 'Transport layer, TCP/UDP, security, fundamentals',
     user: 'howard',
     questions: [
         {

@@ -1,7 +1,7 @@
 module.exports = {
     id: 'howard-networking-one',
     title: 'Networking 1',
-    desc: 'Network fundamentals, protocols, switch config, security',
+    desc: 'Protocols, switch config, security',
     user: 'howard',   // Only shown to Howard
     questions: [
         {
